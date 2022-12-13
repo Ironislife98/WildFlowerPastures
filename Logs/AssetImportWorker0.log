@@ -1582,3 +1582,771 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 885.658376 seconds.
+  path: Assets/Sprout Lands - Sprites - Basic pack/Objects/Basic Furniture.png
+  artifactKey: Guid(587f8c809a98f9244b3edac7bd20aebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - Sprites - Basic pack/Objects/Basic Furniture.png using Guid(587f8c809a98f9244b3edac7bd20aebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36c0947673f7a6a5563acdcc745f5254') in 0.059833 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 29.945271 seconds.
+  path: Assets/Sprout Lands - Sprites - Basic pack/Objects/Basic Furniture.png
+  artifactKey: Guid(587f8c809a98f9244b3edac7bd20aebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - Sprites - Basic pack/Objects/Basic Furniture.png using Guid(587f8c809a98f9244b3edac7bd20aebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ea44c6a9c056c1a6a7a194d88508d55') in 0.139371 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.952898 seconds.
+  path: Assets/Sprout Lands - Sprites - Basic pack/Objects/Basic Grass Biom things 1.png
+  artifactKey: Guid(7c3b1b966313b9745a7b18fd1c6af77a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - Sprites - Basic pack/Objects/Basic Grass Biom things 1.png using Guid(7c3b1b966313b9745a7b18fd1c6af77a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cf2498294b1980cab21d105936d9c20') in 0.013921 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.718354 seconds.
+  path: Assets/Sprout Lands - Sprites - Basic pack/Objects/Basic Grass Biom things 1.png
+  artifactKey: Guid(7c3b1b966313b9745a7b18fd1c6af77a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - Sprites - Basic pack/Objects/Basic Grass Biom things 1.png using Guid(7c3b1b966313b9745a7b18fd1c6af77a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1025396489d286d22a1f893c0d9f434') in 0.141661 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.817672 seconds.
+  path: Assets/Sprout Lands - Sprites - Basic pack/Objects/Basic Plants.png
+  artifactKey: Guid(332eca6fc214e4e42b5d9c6348a1a64a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - Sprites - Basic pack/Objects/Basic Plants.png using Guid(332eca6fc214e4e42b5d9c6348a1a64a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc85225401827ab31742d819f70957c5') in 0.014381 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.704322 seconds.
+  path: Assets/Sprout Lands - Sprites - Basic pack/Objects/Basic Plants.png
+  artifactKey: Guid(332eca6fc214e4e42b5d9c6348a1a64a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - Sprites - Basic pack/Objects/Basic Plants.png using Guid(332eca6fc214e4e42b5d9c6348a1a64a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32796a6f07d15988cb1064ba6e41ada8') in 0.040165 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.353793 seconds.
+  path: Assets/Sprout Lands - Sprites - Basic pack/Objects/Basic tools and meterials.png
+  artifactKey: Guid(d7b3257fa959b6446a29d65d1116528b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - Sprites - Basic pack/Objects/Basic tools and meterials.png using Guid(d7b3257fa959b6446a29d65d1116528b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b23782afc8de1be5f2cd2e32e747400') in 0.013343 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.676914 seconds.
+  path: Assets/Sprout Lands - Sprites - Basic pack/Objects/Basic tools and meterials.png
+  artifactKey: Guid(d7b3257fa959b6446a29d65d1116528b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - Sprites - Basic pack/Objects/Basic tools and meterials.png using Guid(d7b3257fa959b6446a29d65d1116528b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5a091855f757f8ca9b2e168b12b6cbe') in 0.024727 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.172128 seconds.
+  path: Assets/Sprout Lands - Sprites - Basic pack/Objects/Chest.png
+  artifactKey: Guid(60cf43d8609d53a4cbc192b2df2cc744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - Sprites - Basic pack/Objects/Chest.png using Guid(60cf43d8609d53a4cbc192b2df2cc744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72030c5e2ae6faf1fa90c54ef984ae74') in 0.014126 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.434838 seconds.
+  path: Assets/Sprout Lands - Sprites - Basic pack/Objects/Chest.png
+  artifactKey: Guid(60cf43d8609d53a4cbc192b2df2cc744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - Sprites - Basic pack/Objects/Chest.png using Guid(60cf43d8609d53a4cbc192b2df2cc744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88c41eb3518b2f72e8792089209bfbb9') in 0.038338 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.133048 seconds.
+  path: Assets/Sprout Lands - Sprites - Basic pack/Objects/Paths.png
+  artifactKey: Guid(5003734172dc55a42b3c9e2b1b61d9d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - Sprites - Basic pack/Objects/Paths.png using Guid(5003734172dc55a42b3c9e2b1b61d9d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '262fe2fcfd356a7c36a6b565c677b374') in 0.013829 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.646243 seconds.
+  path: Assets/Sprout Lands - Sprites - Basic pack/Objects/Paths.png
+  artifactKey: Guid(5003734172dc55a42b3c9e2b1b61d9d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - Sprites - Basic pack/Objects/Paths.png using Guid(5003734172dc55a42b3c9e2b1b61d9d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb7350c367173845d3ea11104b18ffd4') in 0.031861 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.563272 seconds.
+  path: Assets/Sprout Lands - Sprites - Basic pack/Objects/Simple Milk and grass item.png
+  artifactKey: Guid(7c3efeba7d7aa9a458781b38bd644a95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - Sprites - Basic pack/Objects/Simple Milk and grass item.png using Guid(7c3efeba7d7aa9a458781b38bd644a95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '516360fa814533371cdf70d2d3903dbd') in 0.013775 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.006984 seconds.
+  path: Assets/Sprout Lands - Sprites - Basic pack/Objects/Simple Milk and grass item.png
+  artifactKey: Guid(7c3efeba7d7aa9a458781b38bd644a95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - Sprites - Basic pack/Objects/Simple Milk and grass item.png using Guid(7c3efeba7d7aa9a458781b38bd644a95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd404268249f098ba369254dc49b19606') in 0.021892 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.618139 seconds.
+  path: Assets/Sprout Lands - Sprites - Basic pack/Characters
+  artifactKey: Guid(4237b8f30bc11fc4da523a780b604458) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - Sprites - Basic pack/Characters using Guid(4237b8f30bc11fc4da523a780b604458) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e3801ccba42cfb5ee4097c7490b127e') in 0.010527 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 27.541589 seconds.
+  path: Assets/Sprout Lands - UI Pack - Basic pack
+  artifactKey: Guid(c5604022459a4484aa11521c5209260a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - UI Pack - Basic pack using Guid(c5604022459a4484aa11521c5209260a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10f3f9b3cde25774119c2feae8523103') in 0.010601 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.901835 seconds.
+  path: Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets
+  artifactKey: Guid(ccbc153f6cd7f5c4fa753cc28cae18e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets using Guid(ccbc153f6cd7f5c4fa753cc28cae18e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d278aa04a0d0cb7f8670720ead526dc') in 0.010693 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.116271 seconds.
+  path: Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Setting menu.png
+  artifactKey: Guid(0bc662b2d5b03444d8b793a8a2695194) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Setting menu.png using Guid(0bc662b2d5b03444d8b793a8a2695194) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c633ad755e5d958cae544329f00ca5f0') in 0.027474 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Sprite sheet for Basic Pack.png
+  artifactKey: Guid(5611d43531e6fba4b8a5e2f040930dab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Sprite sheet for Basic Pack.png using Guid(5611d43531e6fba4b8a5e2f040930dab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a747a4b62501c4e6f9c41f8e3393a39') in 0.062872 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/UI Settings Buttons.png
+  artifactKey: Guid(8fa80e87df6fdbf4ea3ac99aa7e71f34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/UI Settings Buttons.png using Guid(8fa80e87df6fdbf4ea3ac99aa7e71f34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57a8270ba0283529a915a3e74fc6e2e1') in 0.022899 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/UI Big Play Button.png
+  artifactKey: Guid(d44903adf32b84e43928145788703ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/UI Big Play Button.png using Guid(d44903adf32b84e43928145788703ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2982c12ddb228994f87c5153713d46bd') in 0.046895 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.498421 seconds.
+  path: Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Mouse sprites
+  artifactKey: Guid(31be55b912b0c1c49bc772102fcd8018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Mouse sprites using Guid(31be55b912b0c1c49bc772102fcd8018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29e53ec7a0a0bc058b6f1209fa54d0ad') in 0.085705 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.488330 seconds.
+  path: Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Mouse sprites/Catpaw holding Mouse icon.png
+  artifactKey: Guid(e363b89df45e75445977010a15ef7d24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Mouse sprites/Catpaw holding Mouse icon.png using Guid(e363b89df45e75445977010a15ef7d24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47dd74aa8051d1c575761223df34145c') in 0.065061 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Mouse sprites/Triangle Mouse icon 3.png
+  artifactKey: Guid(353972c5cc8ee08409f49232adcdb8a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Mouse sprites/Triangle Mouse icon 3.png using Guid(353972c5cc8ee08409f49232adcdb8a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60fdc35fe216edc8d06966e0e846eb56') in 0.033889 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Mouse sprites/Triangle Mouse icon 2.png
+  artifactKey: Guid(c924125060c07d64cab5942b1124c7b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Mouse sprites/Triangle Mouse icon 2.png using Guid(c924125060c07d64cab5942b1124c7b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b4c6cc816c837bab96830f0b145fe1b') in 0.048787 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Mouse sprites/Catpaw Mouse icon.png
+  artifactKey: Guid(ec45c705c1e21bd4bada409ca3311cc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Mouse sprites/Catpaw Mouse icon.png using Guid(ec45c705c1e21bd4bada409ca3311cc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90b1ba612176663ad5484af5258534f7') in 0.046725 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Mouse sprites/Catpaw pointing Mouse icon.png
+  artifactKey: Guid(d6501b98096d48c4ab676450610cc3d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Mouse sprites/Catpaw pointing Mouse icon.png using Guid(d6501b98096d48c4ab676450610cc3d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '505066577d121e851a74bb03ba57cd60') in 0.036410 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Mouse sprites/Triangle Mouse icon 1.png
+  artifactKey: Guid(cf5e3536c9a3c5540a2d20ecee2e7424) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Mouse sprites/Triangle Mouse icon 1.png using Guid(cf5e3536c9a3c5540a2d20ecee2e7424) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7870348b1d10e7ac7fd464ff99da29ee') in 0.032952 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.865495 seconds.
+  path: Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Icons
+  artifactKey: Guid(af766be0aac38a547b69bc22a2a717e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Icons using Guid(af766be0aac38a547b69bc22a2a717e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '917263ac96291b5dcf13b773698a7dc7') in 0.009738 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.048122 seconds.
+  path: Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Icons/All Icons.png
+  artifactKey: Guid(5696decff0a3e9344a443559778f14b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Icons/All Icons.png using Guid(5696decff0a3e9344a443559778f14b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd1bcd31a9707891547dd66c49ceef77') in 0.028333 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Icons/white icons.png
+  artifactKey: Guid(90580d4f80834084f96cf5a0309759e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Icons/white icons.png using Guid(90580d4f80834084f96cf5a0309759e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50e80cfc8343ec657aaaa2d998c779a7') in 0.052122 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.172973 seconds.
+  path: Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Icons/special icons
+  artifactKey: Guid(79443ab46df02844b91fe09153d04fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Icons/special icons using Guid(79443ab46df02844b91fe09153d04fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e0e88aa7962120c542e0183aba77f7e') in 0.013234 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.042301 seconds.
+  path: Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Icons/special icons/Small Happines-Sadness icons.png
+  artifactKey: Guid(91aa1a944b83e2f469dccbc5fac9ff85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Icons/special icons/Small Happines-Sadness icons.png using Guid(91aa1a944b83e2f469dccbc5fac9ff85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aeb246c1569c8e30e2ef4bd68834fa01') in 0.029912 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Icons/special icons/Special Icons.png
+  artifactKey: Guid(63c46a3a2bcbc3f448bf07136010d644) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Icons/special icons/Special Icons.png using Guid(63c46a3a2bcbc3f448bf07136010d644) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82b4fe4f076d1ea996354a7d0835a6d2') in 0.048828 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.592995 seconds.
+  path: Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/buttons
+  artifactKey: Guid(19c92ee218b667d40acc1970a2ce7cc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/buttons using Guid(19c92ee218b667d40acc1970a2ce7cc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5aa365575115a0b12c85027031867654') in 0.010191 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.056639 seconds.
+  path: Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/buttons/Small Square Buttons.png
+  artifactKey: Guid(83c9ee41d08a2654eb01fc0142ac2c0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/buttons/Small Square Buttons.png using Guid(83c9ee41d08a2654eb01fc0142ac2c0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fdaf734862c1189a3bf592c7cce1e03') in 0.134176 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/buttons/Square Buttons 19x26.png
+  artifactKey: Guid(02dc1c96049714548b381194dca156a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/buttons/Square Buttons 19x26.png using Guid(02dc1c96049714548b381194dca156a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af4076d05cde18b525425b2f9135a7fd') in 0.035305 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/buttons/Square Buttons 26x26.png
+  artifactKey: Guid(7e731cbe298fa7847a1bddcbaf6bb857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/buttons/Square Buttons 26x26.png using Guid(7e731cbe298fa7847a1bddcbaf6bb857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0aa48bfff67267cb0014ed57d8b684b') in 0.037896 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/buttons/Square Buttons 26x19.png
+  artifactKey: Guid(7193ef6eac9ae8749b28dcdc1cc3cd8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/buttons/Square Buttons 26x19.png using Guid(7193ef6eac9ae8749b28dcdc1cc3cd8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e940ca5e4970fa1a0c96c80e8fdc860b') in 0.040630 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.387903 seconds.
+  path: Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Dialouge UI
+  artifactKey: Guid(2fbce2c66b2f51f4b8f88dfb4f3d02c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Dialouge UI using Guid(2fbce2c66b2f51f4b8f88dfb4f3d02c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ef1db7931d23f935b131f44d164f5cc') in 0.013629 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.061404 seconds.
+  path: Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Dialouge UI/dialog box big.png
+  artifactKey: Guid(ac9fd92abad8e5747b85a38e2a0cf7c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Dialouge UI/dialog box big.png using Guid(ac9fd92abad8e5747b85a38e2a0cf7c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '405d786045eaabc432236fd2dc667f0d') in 0.023638 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Dialouge UI/Premade dialog box medium.png
+  artifactKey: Guid(1f70b6ed38bae984e971b7d38110a626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Dialouge UI/Premade dialog box medium.png using Guid(1f70b6ed38bae984e971b7d38110a626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1de50b231921534881d26235dd68879') in 0.033528 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Dialouge UI/dialog box small.png
+  artifactKey: Guid(6a0338fb9d1734846b50f2889a389725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Dialouge UI/dialog box small.png using Guid(6a0338fb9d1734846b50f2889a389725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e47029c8f61f04cec45d9e30c95f7494') in 0.045993 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Dialouge UI/dialog box.png
+  artifactKey: Guid(766b1ac29e30bd14ba4d39ed7813d6b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Dialouge UI/dialog box.png using Guid(766b1ac29e30bd14ba4d39ed7813d6b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab4decb1c7fdd5cc72c5b92789a98177') in 0.035268 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Dialouge UI/dialog box character finished talking click to continue indicator - spritesheet .png
+  artifactKey: Guid(deed10dd2010f0d4daac918a97eccfd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Dialouge UI/dialog box character finished talking click to continue indicator - spritesheet .png using Guid(deed10dd2010f0d4daac918a97eccfd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2214692d4fc0ec02d3bbf4b95b76af1c') in 0.033005 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Dialouge UI/Premade dialog box  big.png
+  artifactKey: Guid(11c61cb9a6bcc2340900677428e5f83e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Dialouge UI/Premade dialog box  big.png using Guid(11c61cb9a6bcc2340900677428e5f83e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcb1438d2751eb061ee739dea6144595') in 0.034940 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Dialouge UI/Premade dialog box small.png
+  artifactKey: Guid(ef278cb438f5c474fb6f6a8e0a00af3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Dialouge UI/Premade dialog box small.png using Guid(ef278cb438f5c474fb6f6a8e0a00af3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7730b55735845d542cfeb74e4f24429b') in 0.047318 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Dialouge UI/dialog box medium.png
+  artifactKey: Guid(a8d8e530a394a9c44a65d18820637eca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Dialouge UI/dialog box medium.png using Guid(a8d8e530a394a9c44a65d18820637eca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99a226e94290137566369a4b01350e74') in 0.047630 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.780018 seconds.
+  path: Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Dialouge UI/Emotes
+  artifactKey: Guid(7586ab26ee4c099498774fa38477173c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Dialouge UI/Emotes using Guid(7586ab26ee4c099498774fa38477173c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fea1db8c12a1108792b7b4777a605436') in 0.016339 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.057144 seconds.
+  path: Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Dialouge UI/Emotes/Teemo Basic emote animations sprite sheet.png
+  artifactKey: Guid(7e5847cd01ebe654ca70f6f0e3978434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Dialouge UI/Emotes/Teemo Basic emote animations sprite sheet.png using Guid(7e5847cd01ebe654ca70f6f0e3978434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ca70af9bf0723250281860bcb074318') in 0.028064 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.245812 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(131a6b21c8605f84396be9f6751fb6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(131a6b21c8605f84396be9f6751fb6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c23e514d24f6b65fe96946cd87fc526') in 0.010944 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009919 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\707011\Desktop\UnityProjects\WildFlowerPastures\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\707011\Desktop\UnityProjects\WildFlowerPastures\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.30 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.691 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1693ms)
+		BeginReloadAssembly (202ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (50ms)
+		EndReloadAssembly (1319ms)
+			LoadAssemblies (160ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (399ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (81ms)
+			SetupLoadedEditorAssemblies (607ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (28ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (152ms)
+				ProcessInitializeOnLoadAttributes (346ms)
+				ProcessInitializeOnLoadMethodAttributes (61ms)
+				AfterProcessingInitializeOnLoad (16ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (15ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 5.16 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4039 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 31 unused Assets / (195.4 KB). Loaded Objects now: 4787.
+Memory consumption went from 155.7 MB to 155.5 MB.
+Total: 6.011500 ms (FindLiveObjects: 0.467300 ms CreateObjectMapping: 0.521900 ms MarkObjects: 4.768200 ms  DeleteObjects: 0.252300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 342.553213 seconds.
+  path: Assets/Sprout Lands - UI Pack - Basic pack/read_me.txt
+  artifactKey: Guid(8efba124175c9a145b8376f026711cfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprout Lands - UI Pack - Basic pack/read_me.txt using Guid(8efba124175c9a145b8376f026711cfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c4f5f65b5a7fe04d01f68ee5b9773df') in 0.036033 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009441 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\707011\Desktop\UnityProjects\WildFlowerPastures\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\707011\Desktop\UnityProjects\WildFlowerPastures\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.23 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.446 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1447ms)
+		BeginReloadAssembly (204ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (49ms)
+		EndReloadAssembly (1098ms)
+			LoadAssemblies (149ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (324ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (63ms)
+			SetupLoadedEditorAssemblies (522ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (25ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (138ms)
+				ProcessInitializeOnLoadAttributes (290ms)
+				ProcessInitializeOnLoadMethodAttributes (52ms)
+				AfterProcessingInitializeOnLoad (15ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 6.40 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4040 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 31 unused Assets / (195.6 KB). Loaded Objects now: 4791.
+Memory consumption went from 155.8 MB to 155.6 MB.
+Total: 5.107700 ms (FindLiveObjects: 0.432100 ms CreateObjectMapping: 0.176600 ms MarkObjects: 4.283000 ms  DeleteObjects: 0.214400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011263 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\707011\Desktop\UnityProjects\WildFlowerPastures\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\707011\Desktop\UnityProjects\WildFlowerPastures\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.615 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1616ms)
+		BeginReloadAssembly (198ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (45ms)
+		EndReloadAssembly (1267ms)
+			LoadAssemblies (155ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (452ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (82ms)
+			SetupLoadedEditorAssemblies (512ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (23ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (132ms)
+				ProcessInitializeOnLoadAttributes (287ms)
+				ProcessInitializeOnLoadMethodAttributes (53ms)
+				AfterProcessingInitializeOnLoad (15ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.51 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4040 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 31 unused Assets / (195.4 KB). Loaded Objects now: 4794.
+Memory consumption went from 155.8 MB to 155.6 MB.
+Total: 4.989300 ms (FindLiveObjects: 0.516000 ms CreateObjectMapping: 0.169600 ms MarkObjects: 4.080500 ms  DeleteObjects: 0.221400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009569 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\707011\Desktop\UnityProjects\WildFlowerPastures\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\707011\Desktop\UnityProjects\WildFlowerPastures\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.16 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.713 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1714ms)
+		BeginReloadAssembly (209ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (47ms)
+		EndReloadAssembly (1339ms)
+			LoadAssemblies (165ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (407ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (87ms)
+			SetupLoadedEditorAssemblies (611ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (28ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (152ms)
+				ProcessInitializeOnLoadAttributes (347ms)
+				ProcessInitializeOnLoadMethodAttributes (65ms)
+				AfterProcessingInitializeOnLoad (17ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (15ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.53 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4040 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 31 unused Assets / (195.4 KB). Loaded Objects now: 4797.
+Memory consumption went from 155.8 MB to 155.6 MB.
+Total: 4.273100 ms (FindLiveObjects: 0.373900 ms CreateObjectMapping: 0.161900 ms MarkObjects: 3.530400 ms  DeleteObjects: 0.205500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009445 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\707011\Desktop\UnityProjects\WildFlowerPastures\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\707011\Desktop\UnityProjects\WildFlowerPastures\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.568 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1569ms)
+		BeginReloadAssembly (213ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (49ms)
+		EndReloadAssembly (1187ms)
+			LoadAssemblies (167ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (383ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (64ms)
+			SetupLoadedEditorAssemblies (531ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (24ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (141ms)
+				ProcessInitializeOnLoadAttributes (294ms)
+				ProcessInitializeOnLoadMethodAttributes (54ms)
+				AfterProcessingInitializeOnLoad (15ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (13ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 5.34 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4040 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 31 unused Assets / (195.4 KB). Loaded Objects now: 4800.
+Memory consumption went from 155.8 MB to 155.6 MB.
+Total: 4.768000 ms (FindLiveObjects: 0.397000 ms CreateObjectMapping: 0.168200 ms MarkObjects: 3.954600 ms  DeleteObjects: 0.246300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009502 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\707011\Desktop\UnityProjects\WildFlowerPastures\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\707011\Desktop\UnityProjects\WildFlowerPastures\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.47 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.732 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1733ms)
+		BeginReloadAssembly (277ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (27ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (48ms)
+		EndReloadAssembly (1292ms)
+			LoadAssemblies (183ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (379ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (77ms)
+			SetupLoadedEditorAssemblies (606ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (26ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (155ms)
+				ProcessInitializeOnLoadAttributes (344ms)
+				ProcessInitializeOnLoadMethodAttributes (63ms)
+				AfterProcessingInitializeOnLoad (16ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (14ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 6.06 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4040 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 31 unused Assets / (195.3 KB). Loaded Objects now: 4803.
+Memory consumption went from 155.8 MB to 155.6 MB.
+Total: 4.922400 ms (FindLiveObjects: 0.402800 ms CreateObjectMapping: 0.185800 ms MarkObjects: 4.104000 ms  DeleteObjects: 0.227900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009431 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\707011\Desktop\UnityProjects\WildFlowerPastures\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\707011\Desktop\UnityProjects\WildFlowerPastures\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.635 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1636ms)
+		BeginReloadAssembly (204ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (15ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (46ms)
+		EndReloadAssembly (1266ms)
+			LoadAssemblies (165ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (438ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (74ms)
+			SetupLoadedEditorAssemblies (540ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (29ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (142ms)
+				ProcessInitializeOnLoadAttributes (300ms)
+				ProcessInitializeOnLoadMethodAttributes (53ms)
+				AfterProcessingInitializeOnLoad (14ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.69 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4040 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 31 unused Assets / (195.3 KB). Loaded Objects now: 4806.
+Memory consumption went from 155.8 MB to 155.6 MB.
+Total: 4.744400 ms (FindLiveObjects: 0.378200 ms CreateObjectMapping: 0.252700 ms MarkObjects: 3.878200 ms  DeleteObjects: 0.233700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009610 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\707011\Desktop\UnityProjects\WildFlowerPastures\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\707011\Desktop\UnityProjects\WildFlowerPastures\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.21 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.723 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1724ms)
+		BeginReloadAssembly (215ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (45ms)
+		EndReloadAssembly (1335ms)
+			LoadAssemblies (171ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (399ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (81ms)
+			SetupLoadedEditorAssemblies (621ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (29ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (156ms)
+				ProcessInitializeOnLoadAttributes (353ms)
+				ProcessInitializeOnLoadMethodAttributes (64ms)
+				AfterProcessingInitializeOnLoad (16ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (15ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 5.15 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4040 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 31 unused Assets / (195.5 KB). Loaded Objects now: 4809.
+Memory consumption went from 155.8 MB to 155.6 MB.
+Total: 5.179000 ms (FindLiveObjects: 0.466300 ms CreateObjectMapping: 0.257600 ms MarkObjects: 4.121400 ms  DeleteObjects: 0.329800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
