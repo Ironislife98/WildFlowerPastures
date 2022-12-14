@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 
 public class InventoryController : MonoBehaviour
@@ -8,6 +9,11 @@ public class InventoryController : MonoBehaviour
     public List<int> apples;
 
 
+    public TextMeshProUGUI applesText;
+    private void Update()
+    {
+        
+    }
     public void add(string name)
     {
         if (name == "wheat")
@@ -17,6 +23,7 @@ public class InventoryController : MonoBehaviour
         else if (name == "apple")
         {
             apples.Add(1);
+            applesText.text = $"{apples.Length}";
         }
     }
     public void remove(string name) 
