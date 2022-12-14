@@ -4,13 +4,23 @@ using UnityEngine;
 
 public class InventoryController : MonoBehaviour
 {
-    public Dictionary<string, string> inventory = new Dictionary<string, string>();
-    void Start()
+    public List<int> wheats;
+    public List<int> apples;
+
+
+    public void add(string name)
     {
-        inventory.Add("txt", "winword.exe");
+        if (name == "wheat")
+        {
+            wheats.Add(1);
+        }
+        else if (name == "apple")
+        {
+            apples.Add(1);
+        }
     }
-    //public void AddItem(GameObject obj)
-    //{
+    public void remove(string name) 
+    { 
         
-    //}
+    }
 }
