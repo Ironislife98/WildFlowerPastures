@@ -12,7 +12,10 @@ public class InventoryController : MonoBehaviour
     public TextMeshProUGUI applesText;
     private void Update()
     {
-        
+        if (Input.GetKeyDown("q"))
+        {
+            Debug.Log("drop");
+        }   
     }
     public void add(string name)
     {
@@ -23,7 +26,7 @@ public class InventoryController : MonoBehaviour
         else if (name == "apple")
         {
             apples.Add(1);
-            applesText.text = $"{apples.Length}";
+            applesText.text = $"{apples.Count}x";
         }
     }
     public void remove(string name) 
