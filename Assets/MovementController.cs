@@ -6,14 +6,18 @@ public class MovementController : MonoBehaviour
 {
     public float moveSpeed = 5f; // movement speed of the player
 
-    private Vector2 movement; // variable to store the player's movement input
+    public Vector2 movement; // variable to store the player's movement input
 
     private Rigidbody2D rb; // reference to the player's Rigidbody2D component
+
+    private Animator anim;
 
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody2D>(); // get the player's Rigidbody2D component
+        anim = GetComponent<Animator>();
+        anim.SetBool("idle", true);
     }
 
     // Update is called once per frame
@@ -22,6 +26,32 @@ public class MovementController : MonoBehaviour
         // get the player's horizontal and vertical input
         movement.x = Input.GetAxisRaw("Horizontal");
         movement.y = Input.GetAxisRaw("Vertical");
+
+        if (movement.y == 1)
+        {
+            anim.SetBool("left", false);
+            anim.SetBool("right", false);
+            anim.SetBool("backwards", true);
+        }
+        else if (movement.y == -1) 
+        {
+            anim.SetBool("left", false);
+            anim.SetBool("right", false);
+            anim.SetBool("backwards", false);
+        }
+
+        if (movement.x == 1)
+        { 
+            anim.SetBool("left", false);
+            anim.SetBool("right", true);
+            anim.SetBool("backwards", false);
+        }
+        else if (movement.x == -1)
+        {
+            anim.SetBool("left", true);
+            anim.SetBool("right", false);
+            anim.SetBool("backwards", false);
+        }
     }
 
     // FixedUpdate is called at a fixed interval (used for physics updates)
