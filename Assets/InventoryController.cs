@@ -5,9 +5,11 @@ using UnityEngine;
 
 public class InventoryController : MonoBehaviour
 {
-    public List<int> wheats;
-    public List<int> apples;
+    public int wheats;
+    public int apples;
 
+
+    public string selected = "shovel";
 
     public TextMeshProUGUI applesText;
     private void Update()
@@ -21,12 +23,12 @@ public class InventoryController : MonoBehaviour
     {
         if (name == "wheat")
         {
-            wheats.Add(1);
+            wheats += 1;
         }
         else if (name == "apple")
         {
-            apples.Add(1);
-            applesText.text = $"{apples.Count}x";
+            apples += 1;
+            applesText.text = $"{apples}x";
         }
     }
     public void remove(string name) 

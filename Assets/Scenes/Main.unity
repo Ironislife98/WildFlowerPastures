@@ -1953,6 +1953,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 5
   movement: {x: 0, y: 0}
+  facing: 
+  inv: {fileID: 1607565313}
 --- !u!212 &1607565310
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2053,8 +2055,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7de37ee0f9864e4bbb68be94d7c2424, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wheats: 
-  apples: 
+  wheats: 0
+  apples: 0
+  selected: shovel
   applesText: {fileID: 1859930244}
 --- !u!61 &1607565314
 BoxCollider2D:

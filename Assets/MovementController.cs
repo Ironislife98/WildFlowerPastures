@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting.Antlr3.Runtime.Tree;
 using UnityEngine;
 
 public class MovementController : MonoBehaviour
@@ -11,13 +12,21 @@ public class MovementController : MonoBehaviour
     private Rigidbody2D rb; // reference to the player's Rigidbody2D component
 
     private Animator anim;
+    private string currentState;
+
+
+    [SerializeField] private string facing;
+    private bool idle = true;
+    private bool moving = false;
+    private bool tool = false;
+
+    [SerializeField] private InventoryController inv;
 
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody2D>(); // get the player's Rigidbody2D component
         anim = GetComponent<Animator>();
-        anim.SetBool("idle", true);
     }
 
     // Update is called once per frame
@@ -27,32 +36,79 @@ public class MovementController : MonoBehaviour
         movement.x = Input.GetAxisRaw("Horizontal");
         movement.y = Input.GetAxisRaw("Vertical");
 
-        if (movement.y == 1)
+        if (!tool)
         {
-            anim.SetBool("left", false);
-            anim.SetBool("right", false);
-            anim.SetBool("backwards", true);
-        }
-        else if (movement.y == -1) 
-        {
-            anim.SetBool("left", false);
-            anim.SetBool("right", false);
-            anim.SetBool("backwards", false);
+            if (movement.y == 1)
+            {
+                facing = "up";
+            }
+            else if (movement.y == -1)
+            {
+                facing = "down";
+            }
+            else
+            {
+                idle = true;
+            }
+
+            if (movement.x == 1)
+            {
+                facing = "right";
+            }
+            else if (movement.x == -1)
+            {
+                facing = "left";
+            }
+            else
+            {
+                idle = true;
+            }
+
+            if (movement != new Vector2(0, 0))
+            {
+                idle = false;
+                moving = true;
+            }
         }
 
-        if (movement.x == 1)
-        { 
-            anim.SetBool("left", false);
-            anim.SetBool("right", true);
-            anim.SetBool("backwards", false);
-        }
-        else if (movement.x == -1)
+        if (Input.GetMouseButtonDown(0))
         {
-            anim.SetBool("left", true);
-            anim.SetBool("right", false);
-            anim.SetBool("backwards", false);
+            tool = true;
+            idle = false;
+            moving = false;
+            Debug.Log("click");
+        }
+        else
+        {
+            tool = false;
+        }
+
+        playAnimation();
+    }
+
+    void playAnimation()
+    {
+        if (idle)
+        {
+            ChangeAnimationState($"idle{facing}");
+        }
+        else if (moving)
+        {
+            ChangeAnimationState($"walk{facing}");
+        }
+        else if (tool)
+        {
+            ChangeAnimationState($"{inv.selected}{facing}");
         }
     }
+    void ChangeAnimationState(string newState)
+    {
+        if (currentState == newState) return;
+
+        anim.Play(newState);
+        currentState = newState;
+    }
+
 
     // FixedUpdate is called at a fixed interval (used for physics updates)
     void FixedUpdate()
