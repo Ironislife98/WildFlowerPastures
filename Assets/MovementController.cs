@@ -15,12 +15,16 @@ public class MovementController : MonoBehaviour
     private string currentState;
 
 
-    [SerializeField] private string facing;
+    [SerializeField] private string facing = "down";
     private bool idle = true;
     private bool moving = false;
     private bool tool = false;
+    private float attackDelay;
+
 
     [SerializeField] private InventoryController inv;
+
+
 
     // Start is called before the first frame update
     void Start()
@@ -33,11 +37,12 @@ public class MovementController : MonoBehaviour
     void Update()
     {
         // get the player's horizontal and vertical input
-        movement.x = Input.GetAxisRaw("Horizontal");
-        movement.y = Input.GetAxisRaw("Vertical");
+       
 
         if (!tool)
-        {
+        { 
+            movement.x = Input.GetAxisRaw("Horizontal");
+            movement.y = Input.GetAxisRaw("Vertical");
             if (movement.y == 1)
             {
                 facing = "up";
@@ -45,10 +50,6 @@ public class MovementController : MonoBehaviour
             else if (movement.y == -1)
             {
                 facing = "down";
-            }
-            else
-            {
-                idle = true;
             }
 
             if (movement.x == 1)
@@ -59,36 +60,64 @@ public class MovementController : MonoBehaviour
             {
                 facing = "left";
             }
-            else
-            {
-                idle = true;
-            }
 
             if (movement != new Vector2(0, 0))
             {
                 idle = false;
                 moving = true;
             }
+            else
+            {
+                idle = true;
+                moving = false;
+            }
+            playAnimation();
         }
 
         if (Input.GetMouseButtonDown(0))
         {
+            movement = new Vector2(0, 0);
             tool = true;
             idle = false;
             moving = false;
-            Debug.Log("click");
-        }
-        else
-        {
-            tool = false;
-        }
+            //Debug.Log("click");
 
-        playAnimation();
+
+            playAnimation();
+            handlePlanting();
+            attackDelay = anim.GetCurrentAnimatorStateInfo(0).length;
+            Invoke("toolComplete", attackDelay);
+        }
     }
 
-    void playAnimation()
+    void handlePlanting()
     {
-        if (idle)
+        if (inv.selected == "shovel" && tool)
+        {
+            Vector3Int position = new Vector3Int((int)transform.position.x, (int)transform.position.y, 0);
+            gameObject.transform.position = position;
+            if (GameManager.instance.tileManager.IsInteractable(position))
+            {
+                Debug.Log("Tile is interactable");
+                GameManager.instance.tileManager.SetInteracted(position);
+            }
+        }
+    }
+
+
+    void toolComplete()
+    {
+        tool = false;
+    }
+
+
+
+    void playAnimation() {
+        if (tool)
+        {
+            ChangeAnimationState($"{inv.selected}{facing}");
+        }
+        else if (idle)
         {
             ChangeAnimationState($"idle{facing}");
         }
@@ -96,10 +125,7 @@ public class MovementController : MonoBehaviour
         {
             ChangeAnimationState($"walk{facing}");
         }
-        else if (tool)
-        {
-            ChangeAnimationState($"{inv.selected}{facing}");
-        }
+        
     }
     void ChangeAnimationState(string newState)
     {
