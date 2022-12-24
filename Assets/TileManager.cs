@@ -8,6 +8,7 @@ public class TileManager : MonoBehaviour
     [SerializeField] private Tilemap interactableMap;
     [SerializeField] private Tile hiddenInteractableTile;
     [SerializeField] private Tile soilTile;
+    [SerializeField] private GameObject Player;
 
 
     // Start is called before the first frame update
@@ -35,6 +36,14 @@ public class TileManager : MonoBehaviour
 
     public void SetInteracted(Vector3Int position)
     {
-        interactableMap.SetTile(position, soilTile);
+        /* 
+         *
+         * if tool == shovel
+         * prompt to pick item from inventory
+         * spawn new prefab at position
+         * 
+         */
+         
+
     }
 }

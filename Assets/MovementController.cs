@@ -21,8 +21,8 @@ public class MovementController : MonoBehaviour
     private bool tool = false;
     private float attackDelay;
 
+    private Inventory inv;
 
-    [SerializeField] private InventoryController inv;
 
 
 
@@ -31,6 +31,7 @@ public class MovementController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>(); // get the player's Rigidbody2D component
         anim = GetComponent<Animator>();
+        inv = GetComponent<Inventory>();
     }
 
     // Update is called once per frame
@@ -74,34 +75,36 @@ public class MovementController : MonoBehaviour
             playAnimation();
         }
 
-        if (Input.GetMouseButtonDown(0))
+        if (inv.getSelected() == "Hoe")
         {
-            movement = new Vector2(0, 0);
-            tool = true;
-            idle = false;
-            moving = false;
-            //Debug.Log("click");
+            if (Input.GetMouseButtonDown(0) && !Inventory.running)
+            {
+                movement = new Vector2(0, 0);
+                tool = true;
+                idle = false;
+                moving = false;
+                //Debug.Log("click");
 
 
-            playAnimation();
-            handlePlanting();
-            attackDelay = anim.GetCurrentAnimatorStateInfo(0).length;
-            Invoke("toolComplete", attackDelay);
+                playAnimation();
+                handlePlanting();
+                attackDelay = anim.GetCurrentAnimatorStateInfo(0).length;
+                Invoke("toolComplete", attackDelay);
+            }
         }
     }
 
     void handlePlanting()
     {
-        if (inv.selected == "shovel" && tool)
+       /* if (inv.selected == "shovel" && tool)
         {
             Vector3Int position = new Vector3Int((int)transform.position.x, (int)transform.position.y, 0);
-            gameObject.transform.position = position;
             if (GameManager.instance.tileManager.IsInteractable(position))
             {
                 Debug.Log("Tile is interactable");
                 GameManager.instance.tileManager.SetInteracted(position);
             }
-        }
+        } */
     }
 
 
@@ -113,9 +116,13 @@ public class MovementController : MonoBehaviour
 
 
     void playAnimation() {
-        if (tool)
+        /*if (tool)
         {
             ChangeAnimationState($"{inv.selected}{facing}");
+        } */
+        if (inv.getSelected() == "Hoe" && tool)
+        {
+            ChangeAnimationState($"shovel{facing}");
         }
         else if (idle)
         {

@@ -5,9 +5,10 @@ using UnityEngine;
 public class doorController : MonoBehaviour
 {
     [SerializeField] private string type;
-    [SerializeField] private BoxCollider2D ownCollider;
+    [SerializeField] private BoxCollider2D physicalCollider;
     private Animator anim;
-    public int count = 0;
+    private bool entered = false;
+    private string state = "closed";
 
 
     private void Start()
@@ -15,20 +16,42 @@ public class doorController : MonoBehaviour
         anim = gameObject.GetComponent<Animator>();
     }
 
-    private void OnCollisionStay2D(Collision2D collision)
+    private void Update()
     {
-        Debug.Log("Hello1");
-        if (Input.GetKeyDown(KeyCode.E))
+        if (entered && Input.GetKeyDown(KeyCode.E))
         {
-            Debug.Log("Hello");
-            if (count % 2 == 0 && count != 0)
+            if (state == "closed")
             {
                 anim.SetTrigger("open");
+                state = "open";
             }
-            else if (count != 0)
+            else
             {
                 anim.SetTrigger("close");
+                state = "closed";
             }
+            // Invert collider to stop from going straight through door
+            physicalCollider.enabled = !physicalCollider.enabled;
         }
     }
+
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        entered = true;
+    }
+
+    private void OnTriggerExit2D(Collider2D other)
+    {
+        entered = false;
+    }
+
+
+    /* 
+     On collision enter wait for e to be pressed
+    if e pressed
+        check state
+        toggle state
+
+   */
 }
